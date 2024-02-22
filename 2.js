@@ -6,7 +6,7 @@
 из переменной name.
 Вывести значение переменной admin в консоль.
 */
-
+// solution
 const myName = 'Alexander';
 const admin = myName;
 console.log(admin);
